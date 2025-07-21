@@ -80,5 +80,5 @@ The models were evaluated using **accuracy**  metrics. The custom CNN  models ac
 
 For any questions or feedback, feel free to reach out at:  
 
-📧 Email: [korosbrian574@gmail.com](mailto:korosbrian574@gmail.com)  
-📞 Phone: +254 768 518 488 
+📧 Email: [boniengechu99@gmail.com](mailto:boniengechu99@gmail.com)  
+📞 Phone: +254759730187
